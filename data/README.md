@@ -1,0 +1,5 @@
+### Data
+
+Data used for the sonifications. 
+
+The companiesdb file is derived from the [Bluetooth SIG file](https://www.bluetooth.com/specifications/assigned-numbers/company-identifiers/). The tagging is created by the author. 
