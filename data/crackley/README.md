@@ -4,4 +4,4 @@
 
 [Bluetooth](bluetooth.csv)
 
-![](routemarker.png | width=100)
+![](routemarker.png)
