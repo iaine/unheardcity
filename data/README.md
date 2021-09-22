@@ -6,11 +6,11 @@ The [companiesdb](companiesdb.csv) file is derived from the [Bluetooth SIG file]
 
 Data was captured through an app on walks around the city of Coventry. 
 
-*  Canley Brook
+*  [Canley Brook](canleybrook)
 
-*  Crackley Wood
+*  [Crackley Wood](crackley)
 
-*  Stoney Stanton Road
+*  [Stoney Stanton Road](stoney_stanton)
 
 
 
