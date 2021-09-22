@@ -8,7 +8,7 @@ The current sounds can be heard in the [sounds](sounds) folder
 
 ## Data
 
-The data used in the sonifications is stored in the data folder.
+The data used in the sonifications is stored in the [data](data) folder.
 
 ## Author
 
