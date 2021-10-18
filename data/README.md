@@ -10,6 +10,8 @@ Data was captured through an app on walks around the city of Coventry.
 
 *  [Crackley Wood](crackley)
 
+*  [Music Mile](music_mile) or the Godivari walk. 
+
 *  [Stoney Stanton Road](stoney_stanton)
 
 
