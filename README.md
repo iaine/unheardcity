@@ -16,4 +16,8 @@ Data was captured through an app on walks around the city of Coventry as part of
 
 Iain Emsley < iain (dot) emsley (at) warwick (dot) ac (dot) uk >
 
+## License
+
+This UnheardCity data is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0/
+
 
