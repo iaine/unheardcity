@@ -4,7 +4,9 @@
 
 This is a project to explore the Internet of Things through sonification. 
 
-The current sounds can be heard in the [sounds](sounds) folder
+The current sounds can be heard in the [sounds](sounds) folder.
+
+Other methods are being developed through the [methods](methods) folder. 
 
 ## Data
 
