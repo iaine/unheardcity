@@ -22,6 +22,6 @@ for k, v in img_labels.items():
     if 'GPS Position' in img_labels[k]:
         _d = img_labels[k]['GPS Position'].replace('.','').replace(" deg ", '.').replace("' ", '').replace("\" N",'').replace("\" W",'')
         id = _d.split(',')
-        labels.append({'lat': float(id[0]), 'lon': float(id[1].strip()), 'pic': k})
+        labels.append({'lon': float(id[0]), 'lat': float("-" + id[1].strip()), 'pic': k})
 print(json.dumps(labels))
      
