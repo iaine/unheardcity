@@ -10,10 +10,16 @@
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
         crossorigin=""></script>
         <style>
-            #map { height: 90%; }
+            .gallery {
+                display: grid;
+                grid-template-columns: repeat(8, 1fr);
+                grid-template-rows: repeat(8, 5vw);
+                grid-gap: 15px;
+            }
         </style>
     </head>
     <body>
+        <div class="gallery">
         <img class="grid" src="./hhroad_imgs/20240525_091930.jpg" width="500" height="600">
         <img class="grid" src="./hhroad_imgs/20240525_092035.jpg" width="500" height="600">
         <img class="grid" src="./hhroad_imgs/20240525_091639.jpg" width="500" height="600">
@@ -30,5 +36,6 @@
         <img class="grid" src="./hhroad_imgs/20240525_112001.jpg" width="500" height="600">
         <img class="grid" src="./hhroad_imgs/20240525_092014.jpg" width="500" height="600">
         <img class="grid" src="./hhroad_imgs/20240525_091907.jpg" width="500" height="600">
+        </div>
     </body>
     </html>
