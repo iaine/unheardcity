@@ -1,5 +1,7 @@
 ## Mapping
 
+A [Leaflet map](https://unheardcity.org.uk/methods/src/imagemap.html) with images at the locations (definitely a Work in Progress!)
+
 Mapping of WiFi signals to show how the road is subdivided.
 
 ![wifi](./fig/wifi.png)
