@@ -28,8 +28,8 @@
             imageBounds = [centre, [-35.8650, 154.2094]];
 
 L.imageOverlay(imageUrl, imageBounds).addTo(map);*/
-        const response = await fetch("hhroad.json");
-        const images = await response.json();
+        const response = fetch("hhroad.json");
+        const images = response.json();
 
         images.array.forEach(element => {
 
