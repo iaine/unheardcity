@@ -32,10 +32,9 @@ L.imageOverlay(imageUrl, imageBounds).addTo(map);*/
         .then(response => response.json())
         .then(data =>
             data.forEach(element => {
-                console.log(element)
-                console.log(element['pic'])
                 const imageUrl = element['pic'],
                 imageBounds = [centre, [element['lat'], element['lon']]];
+                console.log(imageBounds)
                 L.imageOverlay(imageUrl, imageBounds).addTo(map);
             }) 
         )
