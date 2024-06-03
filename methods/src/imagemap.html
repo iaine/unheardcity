@@ -31,7 +31,7 @@ L.imageOverlay(imageUrl, imageBounds).addTo(map);*/
         fetch("hhroad.json")
         .then(response => response.json())
         .then(data =>
-            data.array.forEach(element => {
+            data.forEach(element => {
                 const imageUrl = element['pic'],
                 imageBounds = [center, [element['lat'], element['lon']]];
                 L.imageOverlay(imageUrl, imageBounds).addTo(map);
