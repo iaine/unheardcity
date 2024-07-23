@@ -2,7 +2,7 @@ import subprocess
 from glob import glob
 import json
 
-image_files = glob("./hhroad_imgs/*")
+image_files = glob("./hhroad_imgs/*.jpeg")
 
 img_labels = {}
 for img in image_files:
