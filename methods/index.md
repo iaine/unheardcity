@@ -7,3 +7,5 @@
 [Networks](networks)
 
 [Visual](images)
+
+[Socio-Ecology](socio-ecology.html)
