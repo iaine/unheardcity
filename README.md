@@ -8,6 +8,8 @@ The current sounds can be heard in the [sounds](sounds) folder.
 
 Other methods are being developed through the [methods](methods) folder. 
 
+The methods are being refined as doing things with this data in [how-tos](how-to ) folder. 
+
 ## Data
 
 The data used in the sonifications is stored in the [data](data) folder.
