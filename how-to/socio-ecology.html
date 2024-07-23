@@ -65,7 +65,12 @@
         audio.play();
     }
 
+    stopSonifyData = () => {
+        audio.stop();
+    }
+
     document.querySelector('#start').onclick = () => sonifyData();
+    document.querySelector('#stop').onclick = () => stopSonifyData();
 </script>
     <p>A sonification of the relationship between the street and the BluetoothLE devices.</p>
     <p>The street recording is overlaid with a Web Audio beep that sonifies the time of the BluetoothLE devices being captured.</p>
