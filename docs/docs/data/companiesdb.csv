@@ -1,0 +1,39 @@
+BluetoothId,Company Name,Device Notes,Tag,Owner,Country
+0,Ericsson Technology Licensing,,Technology,Ericsson,Sweden
+3,IBM Corp.,,Technology,IBM,US
+6,Microsoft,,Technology,Microsoft,US
+76,"Apple, Inc.",,Technology,Apple,US
+101,Hewlett-Packard Company,,Technology,Hewlett-Packard,US
+117,Samsung Electronics Co. Ltd.,,entertainment,Samsung,Korea
+135,"Garmin International, Inc.",,Fitness,Garmin Ltd,US/Switzerland
+147,"Universal Electronics, Inc.",Smart Home,Smart home,Universal Electronics,US
+196,LG Electronics,,entertainment,LG Corporation,Korea
+224,Google,Speaker,Smart,Alphabet,US
+259,Bang & Olufsen A/S,,Music,Bang & Olufsen,Denmark
+301,Sony Corporation,,entertainment,Sony,Japan
+343,"Anhui Huami Information Technology Co., Ltd.",,Fitness,Anhui Huami ,CN
+409,SALTO SYSTEMS S.L.,Security,Security,Salto,UK
+637,"HUAWEI Technologies Co., Ltd.",,Technology,huawei,CN
+784,SGL Italia S.r.l.,Coffee machine? ,Smart home,Evoca Group,Italy
+1023,Withings,Smart watch,Fitness,Withings,France
+1042,SEFAM,CPAP data?,Medical,Intus Healthcare,UK
+1079,eBest IOT Inc.,,Analytics,eBest,US
+1447,Sonos Inc,,Music,Sonos,US
+2000,"Hangzhou Tuya Information  Technology Co., Ltd",,Smart home,Tuya Smart,CN
+2059,Nanoleaf Canada Limited,,Smart home,Nanoleaf,CA
+2561,Cleveron AS,,Storage,Cleveron,Estonia
+2817,,,,,
+3073,LE-Black Storm,Entertainment in bike?,Automotive,,
+3787,JBL,JBL LIVE500BT-LE,Music,JBL,US
+4780,,,,,
+9474,Venus,speaker? Venus_2C4CC6086117,entertainment,GravaStar,CN
+12360,Dimplex,AH4649<Dimplex>,Smart home,Dimplex,UK
+14129,,,,,
+16896,"HUAWEI Technologies Co., Ltd.",HUAWEI FreeBuds 3i,Music,huawei,CN
+17740,Samsung,LEVEL-DC5A6658F0CA - Samsung,Music,Samsung,Korea
+19456,,,,,
+24576,SnowLeopard,Tw64,Fitness,Lemfo,CN
+34817,Govee,iHoment,Smart home,Govee,CN
+38524,,,,,
+45821,Nextbase,Dashcam,automotive,Nextbase,UK
+65535,Ember Ceramic Mug,,Household,Ember Technologies,US
