@@ -19,7 +19,7 @@ Data was captured through an app on walks around the city of Coventry as part of
 
 ## Author
 
-Iain Emsley < iain (dot) emsley (at) warwick (dot) ac (dot) uk >
+Iain Emsley
 
 ## License
 
