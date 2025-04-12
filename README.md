@@ -25,4 +25,6 @@ Iain Emsley
 
 This UnheardCity data is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0/
 
+## Issues and Features
 
+Please use the issue queue to report issue and features
