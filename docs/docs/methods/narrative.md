@@ -1,6 +1,6 @@
 ## Narrative
 
-The network data was put into a Linked Data model (to be made available). Using this, I use the links to look at where the devices manufacturers are linked. The [network](networks) uses Gephi to visualise this data.
+The network data was put into a Linked Data model (to be made available). Using this, I use the links to look at where the devices manufacturers are linked. The [network](../networks) uses Gephi to visualise this data.
 
 Device made by Apple, Inc. presents service None with type None 
 
