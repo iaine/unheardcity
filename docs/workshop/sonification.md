@@ -5,4 +5,4 @@ Sonification is the translation of relationships in data into sound to make thes
 More recently, sonification can be considered as a complement to visualisation and to engage non-experts with data (Lenzi and Cucciarelli, 2019). This brings more of a design element to sonification to help the listener understand the data and to create different engagement with it. 
 
 
-[<< Previous](index)  [Next >>](types)
+[<< Previous](types)  [Next >>](design)

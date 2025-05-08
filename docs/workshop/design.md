@@ -1,6 +1,5 @@
 ## Design 
 
-### Basic Designs
 
 At a basic level, sonification design might look at:
 
@@ -8,14 +7,17 @@ At a basic level, sonification design might look at:
 * pitch, 
 * tempo or beat, 
 * direction (panning or spatial?)
-
 or a combination of the above. 
 
-These provide a basic form of sound. We might take a more designed approach and think about other aspects. We could use alter the sound, such as adding a lower tone to the sound to make it a bit deeper, or we can use the other types of sound. 
+One might use volume or pitch to represent quantity of data. The more of something, the higher the pitch or louder volume.
 
-Here you might think about the type of data to be sonified and the approaches, such as qualitative - such as categories - or quantitative - like discrete numbers or continuous values like time series. 
+The tempo of a piece could be mapped to time in a piece. In the yield curve sonification earlier, the dates were filtered so only a few are sonified to allow the listener to understand the data. 
 
-## Mapping Data to Sound
+Direction or progression might be shown using panning to move from one speaker to another. 
+
+These provide a basic form of sound design. We might take a more design approach and think about other aspects to make the sonification richer. We could use alter the sound, such as adding a lower tone to the sound to make it a bit deeper, or we can use the other types of sound. 
+
+Here you might think about the type of data to be sonified and the approaches, such as qualitative - such as categories - or quantitative - like discrete numbers or continuous values like time series data. 
 
 You might think about other approaches like earcons, audicons, or even samples. Here you are using more complex sounds and beginning to interpret sounds.  
 
@@ -23,25 +25,6 @@ We could use audio graphs, such as line charts, to show relationships over time 
 
 Another way is to create layers of sound to contextualise data. In the UnheardCity work, sonifications of the data were overlaid with sound recordings to provide some context from the walk. [https://unheardcity.org.uk/sounds/soundscape.html](https://unheardcity.org.uk/sounds/soundscape.html)
 
-### Sketching Techniques
+A question that you might want to ask is how the listener will understand what you are sonifying. Do they have access to a description of the sounds? 
 
-Vocal Sketching (Ekman and Rinott, 2010) where you "sketch" ideas about the sonification and record it on your phone or onto your computer. If you have a Mac, then GarageBand can be used to record audio and alter it. 
-
-[Sketching sound](https://aurawalmer.com/total-solar-eclipse-2024) using pen and paper is another design method that Aura Walmer discusses along with how the listener could be helped to understand the sonification. 
-
-### Tools
-
-You may want to use your own tools, if you have some. If not, [TwoTone](https://twotone.io) is a good starting point for experimenting and is available online. 
-
-Found sounds, either that you have recorded ourselves or downloaded from a sample source, might add in extra types of sound to make the relationship more obvious. These can be put into tools liek GarageBand or Audacity and manipulated to create a sonification. 
-
-[Audacity](https://www.audacityteam.org) is a cross-platform tool that can record and alter audio files. It comes with some effects to do basic prototypes using samples or voice sketching. 
-
-### Exercise
-
-In this workshop, we will take the use the design mapping sheet (Ciuccarelli and Lenzi, 2020) and apply it to some data to work to design a sonification. It might be useful to apply some of the considerations from the [listening](listening) session to think about the potential effect of the audio representation. 
-
-Other approaches are listed in the bibliography.
-
-
-[<< Previous](listening)  [Next >>](resources)
+[<< Previous](listening)  [Next >>](techniques)

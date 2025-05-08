@@ -25,4 +25,4 @@ Model-Based Sonification is where models create and drive the processes but with
 A newer form of sonification, Open Sonification, encourages us to work with other forms of data and results coming from sound. The approach focuses on the act of making sound and constructing a narrative. In addition to be analytical, it encourages taking a perspective or provide a commentary on the data. 
 
 
-[<< Previous](index)  [Next >>](listening)
+[<< Previous](listening)  [Next >>](sonification)
