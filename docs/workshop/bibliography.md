@@ -12,9 +12,9 @@ De Campo, A., 2007, June. Toward a data sonification design space map. In Procee
 
 Dombois, F. and Eckel, G. 2011. "Audification" in Hermann, T., Hunt, A., Neuhoff, J. G., editors, The Sonification Handbook, chapter 12, pages 301-324. Logos Publishing House, Berlin, Germany.
 
-Emsley, I., De Roure, D. and Chamberlain, A., 2017, August. A network of noise: designing with a decade of data to sonify JANET. In Proceedings of the 12th International Audio Mostly Conference on Augmented and Participatory Sound and Music Experiences.
+Ekman, I and Rinott, M. 2010. Using vocal sketching for designing sonic interactions. In Proceedings of the 8th ACM Conference on Designing Interactive Systems (DIS '10). Association for Computing Machinery, New York, NY, USA, 123–131. https://doi.org/10.1145/1858171.1858195
 
-Emsley, I., and Chamberlain, A. (2021). Sounding out the System: Multidisciplinary Web Science Platforms for Creative Sonification. Companion Publication of the 13th ACM Web Science Conference 2021.
+Emsley, I., De Roure, D. and Chamberlain, A., 2017, August. A network of noise: designing with a decade of data to sonify JANET. In Proceedings of the 12th International Audio Mostly Conference on Augmented and Participatory Sound and Music Experiences.
 
 Grond, F.  and J. Berger, J., 2011., “Parameter mapping sonification,” in Hermann, T., Hunt, A., and J. Neuhoff, J. (eds.) The Sonification Handbook, Logos Publishing House, Berlin, Germany
 
