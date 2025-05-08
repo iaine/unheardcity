@@ -8,11 +8,8 @@
 
 * Some Design Ideas 
 
-* Tools and Techniques
+* Tools, Techniques and Exercise
 
-* Designing Sonification
-
-* Exercise
 
 
 
