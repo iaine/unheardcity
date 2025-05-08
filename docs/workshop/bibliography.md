@@ -36,3 +36,5 @@ Worrall, D., 2019. Sonification Design: From Data to Intelligible Soundfields. S
 https://thealanchamberlain.bandcamp.com/track/unseen-in-sound
 
 https://austgate.co.uk/2021/06/an-introduction-to-sounding-out-the-system/
+
+[<< Previous](resources)

@@ -18,3 +18,6 @@ BBC Sound Effects, [https://sound-effects.bbcrewind.co.uk/search?resultSize=30](
 Hatnote, [Listen to Wikipedia](http://listen.hatnote.com/)
 
 Loud Numbers, [https://www.loudnumbers.net/](https://www.loudnumbers.net/)
+
+
+[<< Previous](design)  [Next >>](bibliography)
