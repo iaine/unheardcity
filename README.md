@@ -12,7 +12,7 @@ The methods are being refined as doing things with this data in [how-tos](how-to
 
 ## Workshop
 
-Workshop notes for the UnheardCity workshop.
+Workshop notes for the UnheardCity [workshop](workshop).
 
 ## Data
 
