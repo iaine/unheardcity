@@ -10,6 +10,10 @@ Other methods are being developed through the [methods](methods) folder.
 
 The methods are being refined as doing things with this data in [how-tos](how-to ) folder. 
 
+## Workshop
+
+Workshop notes for the UnheardCity workshop.
+
 ## Data
 
 The data used in the sonifications is stored in the [data](data) folder.
@@ -18,7 +22,7 @@ Data was captured through an app on walks around the city of Coventry as part of
 
 ## Author
 
-Iain Emsley < iain (dot) emsley (at) warwick (dot) ac (dot) uk >
+Iain Emsley
 
 ## License
 
