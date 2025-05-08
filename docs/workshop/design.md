@@ -35,7 +35,7 @@ In an earlier workshop paper, myself and a co-author measured the packets on var
 
 We could use audio graphs, such as line charts to show relationships over time (Emsley, De Roure and Chamberlain, A, 2017).
 
-You can also think about more in depth sounds, such as using noise for sonifications of networks (Emsley, De Roure and Chamberlain, A, 2017). 
+You can also think about more in depth sounds, such as using noise for sonifications of networks, like some earlier work on [JANET](https://iaine.github.io/janet/traffic.html). (Emsley, De Roure and Chamberlain, A, 2017). Two approaches are taken here: firstly, the noise of the traffic and secondly, a more audio graphic version with a voice over to contextualise the data.
 
 Another way is to create layers of sound to contextualise data. In the UnheardCity work, sonifications of the data were overlaid with sound recordings to provide some context from the walk.
 
@@ -51,26 +51,5 @@ Other approaches are listed in the bibliography.
 
 You may want to use your own tools, if you have some. If not, [TwoTone](https://twotone.io) is a good starting point for experimenting and is available online. 
 
-## Bibliography
-
-Axon, L., Goldsmith, M. and Creese, S., 2018. Sonification mappings: estimating effectiveness, polarities and scaling in an online experiment. Journal of the Audio Engineering Society, 66(12), pp.1016-1032.
-
-Campo, A.D., Frauenberger, C. and Holdrich, R., 2004. Designing a generalized sonification environment. In Proceedings of the International Conference on Auditory Display, Sydney. http://www.icad.org/websiteV2.0/Conferences/ICAD2004/posters/campo_etal.pdf, http://www.icad.org/Proceedings/2007/deCampo2007.pdf
-
-Ciuccarelli, P and Lenzi, S. 2020. Data Sonification Canvas. DOI:10.13140/RG.2.2.20307.66084
-
-De Campo, A., 2007, June. Toward a data sonification design space map. In Proceedings of the International Conference on Auditory Display (pp. 342-347).
-
-Grond, F. and Hermann, T., 2014. Interactive Sonification for Data Exploration: How listening modes and display purposes define design guidelines. Organised Sound, 19(1), pp.41-51.
-
-Emsley, I., De Roure, D. and Chamberlain, A., 2017, August. A network of noise: designing with a decade of data to sonify JANET. In Proceedings of the 12th International Audio Mostly Conference on Augmented and Participatory Sound and Music Experiences.
-
-Emsley, I., and Chamberlain, A. (2021). Sounding out the System: Multidisciplinary Web Science Platforms for Creative Sonification. Companion Publication of the 13th ACM Web Science Conference 2021.
-
-https://thealanchamberlain.bandcamp.com/track/unseen-in-sound
-
-https://austgate.co.uk/2021/06/an-introduction-to-sounding-out-the-system/
-
-Worrall, D., 2019. Sonification Design: From Data to Intelligible Soundfields. Springer Nature, Switzerland AG, Cham.
 
 [<< Previous](listening)  [Next >>](resources)

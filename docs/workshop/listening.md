@@ -29,4 +29,4 @@ BBC, The sound of a falling currency, https://www.bbc.co.uk/programmes/p040tngz
 Financial Time, Sonification: turning the yield curve into music, https://www.ft.com/content/80269930-40c3-11e9-b896-fe36ec32aece
 
 
-[<< Previous](introduction)  [Next >>](design)
+[<< Previous](types)  [Next >>](design)
