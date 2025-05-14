@@ -10,7 +10,7 @@ Vocal Sketching (Ekman and Rinott, 2010) where you "sketch" ideas about the soni
 
 You may want to use your own tools, if you have some. If not, [TwoTone](https://twotone.io) is a good starting point for experimenting and is available online. 
 
-Found sounds, either that you have recorded ourselves or downloaded from a sample source, might add in extra types of sound to make the relationship more obvious. These can be put into tools liek GarageBand or Audacity and manipulated to create a sonification. 
+Found sounds, either that you have recorded ourselves or downloaded from a sample source, might add in extra types of sound to make the relationship more obvious. These can be put into tools like GarageBand or Audacity and manipulated to create a sonification. 
 
 [Audacity](https://www.audacityteam.org) is a cross-platform tool that can record and alter audio files. It comes with some effects to do basic prototypes using samples or voice sketching. 
 
