@@ -53,14 +53,16 @@ with open('/Users/iain/git/public/assigned_numbers/uuids/service_uuids.yaml', 'r
 no_device = BNode()
 no_maker = BNode()
 
-#fh = open("/Users/iain/Documents/projects/unheard/holyheadroad/A52/bluetoothle_1680540950259.txt", 'r')
-fh = open("/Users/iain/Desktop/A52_archive/A52ble.txt", 'r')
+fh = open("/Users/iain/Documents/projects/unheard/holyheadroad/A52/bluetoothle_1680540950259.txt", 'r')
+#fh = open("/Users/iain/Desktop/A52_archive/A52ble.txt", 'r')
 data = fh.readlines()
 fh.close()
 
 
 for r in data:
-    row = r.split(",")
+    row = r.split("\t")
+    print(row)
+    print(row[1])
     #might want to make this more random
     u = URIRef("http://unheardcity.org.uk/"+ md5(row[1].encode('utf-8')).hexdigest())
     g.add((u, UCH.id, Literal(row[1]) ))
@@ -79,8 +81,9 @@ for r in data:
     service = Service(svcuuid=mems, svcs=svcs)
     blank = row[12].strip()
     print(row)
+    print(len(row))
     print(blank)
-    if row[12] == '': print(row[13])
+    if row[10] == '': print(row[13])
     #if row[12] == "":
     #    blank = row[13]
 
@@ -111,7 +114,7 @@ for r in data:
         else:
             g.add((u, UCH.svcuuid, URIRef(no_device) ))
     
-    g.add((u, UCH.svcdata, Literal(row[14].strip()) ))
+    g.add((u, UCH.svcdata, Literal(row[13].strip()) ))
     g.add( (u, UCH.timeseen, Literal(row[0])) )
 
 #WiFi
