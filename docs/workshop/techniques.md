@@ -20,5 +20,7 @@ In this workshop, you can design your own sonification using the various techniq
 
 You are free to use any technique that you are comfortable with, or to try new things. 
 
+If you do not have data, then here is some [trial data](https://github.com/iaine/unheardcity/tree/dev/docs/workshop/workshop_data) to start.
+
 
 [<< Previous](design)  [Next >>](resources)
