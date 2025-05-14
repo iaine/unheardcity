@@ -8,7 +8,7 @@ Vocal Sketching (Ekman and Rinott, 2010) where you "sketch" ideas about the soni
 
 ### Tools
 
-You may want to use your own tools, if you have some. If not, [TwoTone](https://twotone.io) is a good starting point for experimenting and is available online. 
+You may want to use your own tools, if you have some. If not, [TwoTone](https://twotone-midiout-beta.netlify.app) is a good starting point for experimenting and is available online. 
 
 Found sounds, either that you have recorded ourselves or downloaded from a sample source, might add in extra types of sound to make the relationship more obvious. These can be put into tools like GarageBand or Audacity and manipulated to create a sonification. 
 
